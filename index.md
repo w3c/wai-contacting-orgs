@@ -252,14 +252,13 @@ In the template below, the <span class="hint">[hints]</span> in brackets are sec
 
 **Dear** <span class="hint">[name or position of person you're writing to]</span>
 
-**I had problems on the web page** <span class="hint">[web address (URL), or describe the page where the problem occurs</span>  
+**I had problems on the web page** <span class="hint">[web address (URL), or describe the page where the problem occurs]</span>  
 **I tried to** <span class="hint">[describe what you were trying to do on their site]</span>.  
 **The problem was** <span class="hint">[describe what doesn't work for you or what doesn't work the way you expected]</span>.  
 **This meant I was unable to** <span class="hint">[describe what you had hoped to do on their website]></span>.  
 <span class="hint">[optional: "</span>**I have no trouble on**<span class="hint">" [ describe a similar site that works for you]</span>.
 
-**Here is some information to help you diagnose and fix the problem. I use a** <span class="hint">[your computer operating system]</span>  
-**with the** <span class="hint">[name and version of your browser]</span>.  
+**Here is some information to help you diagnose and fix the problem. I use a** <span class="hint">[your computer operating system]</span> **with the** <span class="hint">[name and version of your browser]</span>.  
 **I also use** <span class="hint">[describe any assistive technology you use, or settings you changed - if this is relevant]</span>.
 
 **To learn about web accessibility please see "Introduction to Web Accessibility" at https://www.w3.org/WAI/intro/accessibility** <span class="hint">[optional: include [other references](#pointers)]</span>
@@ -289,7 +288,8 @@ You can get information about web accessibility from the web page at https://www
 
 As I am a CityLights' events fan, I would appreciate your attention to this problem - please let me know when it's fixed. If you would like me to supply any further information, please email me.
 
-Regards, Maria
+Regards,
+Maria
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -320,7 +320,8 @@ Please check out this web accessibility information from the W3C:
 
 Please let me know when these problems are addressed.
 
-Thank you for your attention. Noriyuki
+Thank you for your attention.
+Noriyuki
 
 {::nomarkdown}
 {% include box.html type="end" %}
