@@ -86,10 +86,11 @@ If you cannot find contacts on the website, other places to look include:
 ## Describe the Problem {#report}
 
 Describe the accessibility barrier clearly. This will help the organization find and fix the problem. Include:
-•	the page where you found a problem
-•	what the problem is
-•	what computer and software you use
-•	a screenshot of the web page
+
+*   the page where you found a problem
+*   what the problem is
+*   what computer and software you use
+*   a screenshot of the web page
 
 ### Where the Problem is {#where}
 
