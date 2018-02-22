@@ -262,7 +262,7 @@ In the template below, the <span class="hint">[hints]</span> in brackets are sec
 **with the** <span class="hint">[name and version of your browser]</span>.  
 **I also use** <span class="hint">[describe any assistive technology you use, or settings you changed - if this is relevant]</span>.
 
-**To learn about web accessibility please see "Accessibility - W3C" at http://www.w3.org/standards/webdesign/accessibility.html** <span class="hint">[optional: include [other references](#pointers)]</span>
+**To learn about web accessibility please see "Introduction to Web Accessibility" at https://www.w3.org/WAI/intro/accessibility** <span class="hint">[optional: include [other references](#pointers)]</span>
 
 **I look forward to your fixing accessibility barriers on your website. Please contact me** <span class="add">[at the phone number or email address below]</span> **if I can be of further assistance.**
 
@@ -285,8 +285,7 @@ I have encountered some accessibility barriers on your website.
 
 I recently visited your ticket offers page (http://www.cl.example.com/tickets/mank.html) looking for tickets for Thelonius Mank. I couldn't use the page because the gray text on the black background is too hard to read.
 
-You can get information about web accessibility from the web page  
-http://www.w3.org/standards/webdesign/accessibility.html
+You can get information about web accessibility from the web page at https://www.w3.org/WAI/intro/accessibility
 
 As I am a CityLights' events fan, I would appreciate your attention to this problem - please let me know when it's fixed. If you would like me to supply any further information, please email me.
 
@@ -339,7 +338,7 @@ Love your stories, but not your surveys! I can't use a mouse very much because m
 
 In case it helps you diagnose and fix the problem: I have a Win10 laptop and use Chrome browser Version 60.0.3112.78.
 
-To learn more about these and other accessibility issues, check out www.w3.org/standards/webdesign/accessibility.html
+To learn more about these and other accessibility issues, check out www.w3.org/WAI/intro/accessibility
 
 By the way, making your site accessible will benefit Citylights too, see Developing a Web Accessibility Business Case for Your Organization (www.w3.org/WAI/bcase/Overview.html).
 
