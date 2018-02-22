@@ -172,7 +172,7 @@ Even if you don’t know all the details, include what you do know.
 {:/}
 
 *   I use a Mac with the Safari browser and set the Universal Access to never use fonts smaller than 14.
-*   I use Windows with EDGE. I changed the Windows colors to give me yellow text on a black background as it’s easier to read.
+*   I use Windows with Edge. I changed the Windows colors to give me yellow text on a black background as it’s easier to read.
 *   I use the Opera browser with Windows and I use keystrokes to navigate websites. (I can't use a mouse at all.)
 
 {::nomarkdown}
