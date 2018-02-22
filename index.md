@@ -97,15 +97,19 @@ Describe the accessibility barrier clearly. This will help the organization find
 Include the web address (also called URL), or a description of the page.
 
 {::nomarkdown}
-{% include box.html type="start" title="Examples" class="example" %}
+{% include box.html type="start" title="Examples of a web address (URL):" class="example" %}
 {:/}
-
-Example of a web address (URL):
 
 *   http://www.example.org/services/local.html
 *   https://www.example.org/checkout/confirm.php
 
-Examples of page descriptions:
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" title="Examples of page descriptions:" class="example" %}
+{:/}
 
 *   "the Local Services page, the one with the lists of Residential Services and Business Services"
 *   "the Confirm Purchase page after I entered my credit card information"
