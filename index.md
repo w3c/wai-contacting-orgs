@@ -238,8 +238,6 @@ If you feel the organization is not adequately resolving the accessibility probl
 *   Contact the government department responsible for disability rights, older people's rights, or human rights.
 *   Consider legal action. For example, based on web accessibility requirements in [anti-discrimination regulations in your country](/WAI/Policy/).
 
-* * *
-
 ## Sample Emails {#samples}
 
 Feel free to adapt these sample emails for your situation.
