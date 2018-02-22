@@ -256,7 +256,7 @@ In the template below, the <span class="hint">[hints]</span> in brackets are sec
 **I tried to** <span class="hint">[describe what you were trying to do on their site]</span>.  
 **The problem was** <span class="hint">[describe what doesn't work for you or what doesn't work the way you expected]</span>.  
 **This meant I was unable to** <span class="hint">[describe what you had hoped to do on their website]></span>.  
-<span class="hint">[optional: "</span>**I have no trouble on**<span class="hint">" [ describe a similar site that works for you]</span>.
+<span class="hint">[optional: "</span>**I have no trouble on**<span class="hint">" [describe a similar site that works for you]</span>.
 
 **Here is some information to help you diagnose and fix the problem. I use a** <span class="hint">[your computer operating system]</span> **with the** <span class="hint">[name and version of your browser]</span>.  
 **I also use** <span class="hint">[describe any assistive technology you use, or settings you changed - if this is relevant]</span>.
