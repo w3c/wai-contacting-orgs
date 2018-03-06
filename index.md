@@ -140,7 +140,7 @@ Provide details about what you were trying to do, and why it was difficult or im
 {% include box.html type="end" %}
 {:/}
 
-### What Computer and Software are You Using? {#about}
+### What Computer and Software You are Using {#about}
 
 Provide details about your computer and software. If you don't know, maybe a friend, relative, or colleague can help you find that information. If not, you can skip this part.
 
