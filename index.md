@@ -1,6 +1,11 @@
 ---
 title: Contacting Organizations about Inaccessible Websites
 layout: default
+permalink: /teach-advocate/contact-inaccessible-websites/
+footer: >
+  <p><strong>Status:</strong> Updated 27 July 2017 (first published January 2010) [<a href="http://www.w3.org/WAI/EO/changelogs/cl-responding.html">changelog</a>]<br>
+  Editors: <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>, <a href="http://www.w3.org/People/Shawn/">Shawn Henry</a>, and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>, Suzette Keith, Jennifer Sutton, and participants of the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> and <a href="http://www.w3.org/WAI/EO/">Education and Outreach Working Group</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> (IST 035015) funded by the European Commission under the  6th Framework.
+  </p>
 ---
 
 {::nomarkdown}
