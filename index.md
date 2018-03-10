@@ -194,7 +194,7 @@ Help the organization understand web accessibility issues. Consider including th
     http://www.w3.org/WAI/intro/accessibility.php
 *   [How People with Disabilities Use the Web](http://www.w3.org/WAI/intro/people-use-web)  
     http://www.w3.org/WAI/intro/people-use-web.html
-*   [Web Content Accessibility Guidelines (WCAG) Overview](http://www.w3.org/WAI/intro/wcag.php)  
+*   [Web Content Accessibility Guidelines (WCAG) Overview]({{ "/standards-guidelines/wcag/" | relative_url }})  
     http://www.w3.org/WAI/intro/wcag.php
 
 ## Request Reply {#request}
@@ -320,7 +320,7 @@ Please check out this web accessibility information from the W3C:
     http://www.w3.org/WAI/intro/accessibility.php
 *   [How People with Disabilities Use the Web](http://www.w3.org/WAI/intro/people-use-web)  
     http://www.w3.org/WAI/intro/people-use-web.html
-*   [Web Content Accessibility Guidelines (WCAG) Overview](http://www.w3.org/WAI/intro/wcag.php)  
+*   [Web Content Accessibility Guidelines (WCAG) Overview]({{ "/standards-guidelines/wcag/" | relative_url }})  
     http://www.w3.org/WAI/intro/wcag.php
 
 Please let me know when these problems are addressed.
