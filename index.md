@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-contacting-orgs
 footer: >
   <p><strong>Date:</strong> Updated  27 July 2017. First published January 2010.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>, <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>, Suzette Keith, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>.</p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>, <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>, Suzette Keith, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-memberss">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
 ---
@@ -53,7 +53,7 @@ This document shows you how to encourage organizations to make their website acc
 
 Your feedback to an organization can help them improve their website's accessibility. This will benefit you, other people who use the website, and the organization itself. Website owners have many priorities for changes and improvements. The more an organization hears about accessibility from people who use their website, the more likely it is that accessibility will become a higher priority. [Positive feedback](#encourage) is useful, as well as critical feedback.
 
-Some website owners are not even aware of the importance of making their website accessible. Websites are required to be accessible in many countries by [national policies](/WAI/Policy/). The [UN Convention on the Rights of Persons with Disabilities](http://www.un.org/disabilities/default.asp?navid=12&pid=150) states that people with disabilities have a right to access information and services via the Internet. Also, accessible websites provide [business benefits](/WAI/bcase/) for website owners and [benefits for people without disabilities](/WAI/bcase/soc.html#groups).
+Some website owners are not even aware of the importance of making their website accessible. Websites are required to be accessible in many countries by [national policies]({{ "/policies/" | relative_url }}). The [UN Convention on the Rights of Persons with Disabilities](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html) states that people with disabilities have a right to access information and services via the Internet. Also, accessible websites provide [business benefits](/WAI/bcase/) for website owners and [benefits for people without disabilities](/WAI/bcase/soc.html#groups).
 
 Note that most accessibility barriers are caused by poor website design and development. However, some accessibility problems might be related to settings in your web browser or assistive technology. For guidance to help you customize your particular web browser and computer setup so it's easier to use websites, see [Better Web Browsing: Tips for Customizing Your Computer](http://www.w3.org/WAI/users/browsing.html).
 
@@ -193,9 +193,9 @@ Even if you don’t know all the details, include what you do know.
 
 Help the organization understand web accessibility issues. Consider including the following resources:
 
-*   [Introduction to Web Accessibility](http://www.w3.org/WAI/intro/accessibility.php)  
+*   [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})  
     http://www.w3.org/WAI/intro/accessibility.php
-*   [How People with Disabilities Use the Web](http://www.w3.org/WAI/intro/people-use-web)  
+*   [How People with Disabilities Use the Web]({{ "/people-use-webs/" | relative_url }})  
     http://www.w3.org/WAI/intro/people-use-web.html
 *   [Web Content Accessibility Guidelines (WCAG) Overview]({{ "/standards-guidelines/wcag/" | relative_url }})  
     http://www.w3.org/WAI/intro/wcag.php
@@ -244,7 +244,7 @@ If you feel the organization is not adequately resolving the accessibility probl
 *   If it is a government website, contact your local government.
 *   Lodge a formal complaint with the relevant industry regulator or ombudsman.
 *   Contact the government department responsible for disability rights, older people's rights, or human rights.
-*   Consider legal action. For example, based on web accessibility requirements in [anti-discrimination regulations in your country](/WAI/Policy/).
+*   Consider legal action. For example, based on web accessibility requirements in [anti-discrimination regulations in your country]({{ "/policies/" | relative_url }}).
 
 ## Sample Emails {#samples}
 
