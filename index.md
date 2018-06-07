@@ -228,7 +228,7 @@ You might get an automatic reply that the organization received your feedback. T
 
 Sometimes the organization does not have expertise in accessibility. They may not understand your feedback. They might assume the issue is with your browser or assistive technology.
 
-Tthe organization might fix the problem and not notify you.
+The organization might fix the problem and not notify you.
 
 If you do not receive satisfactory responses within a reasonable timeframe, consider taking further action, described below.
 
