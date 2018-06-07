@@ -296,7 +296,7 @@ You can get information about web accessibility from the web page at https://www
 
 As I am a CityLights' events fan, I would appreciate your attention to this problem - please let me know when it's fixed. If you would like me to supply any further information, please email me.
 
-Regards,
+Regards,<br>
 Maria
 
 {::nomarkdown}
@@ -328,7 +328,7 @@ Please check out this web accessibility information from the W3C:
 
 Please let me know when these problems are addressed.
 
-Thank you for your attention.
+Thank you for your attention.<br>
 Noriyuki
 
 {::nomarkdown}
@@ -353,7 +353,7 @@ By the way, making your site accessible will benefit Citylights too, see Develop
 
 Please tell me when you've fixed these problems. Happy to help you further. You can ring me at 12-345-6789.
 
-Best,  
+Best,<br>
 Jasmine
 
 [CC: Spinal Cord Injury Association]
