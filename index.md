@@ -6,9 +6,10 @@ github:
   repository: w3c/wai-contacting-orgs
 footer: >
   <p><strong>Date:</strong> Updated  27 July 2017. First published January 2010.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>, <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>, Suzette Keith, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-memberss">EOWG Participants</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
-
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Andrew/">Andrew Arch</a>, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, Suzette Keith, Jennifer Sutton, <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-memberss">EOWG Participants</a>.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+inline_css: |
+  .hint {opacity: .9;}
 ---
 
 {::nomarkdown}
@@ -55,7 +56,7 @@ Your feedback to an organization can help them improve their website's accessibi
 
 Some website owners are not even aware of the importance of making their website accessible. Websites are required to be accessible in many countries by [national policies]({{ "/policies/" | relative_url }}). The [UN Convention on the Rights of Persons with Disabilities](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html) states that people with disabilities have a right to access information and services via the Internet. Also, accessible websites provide [business benefits](/WAI/bcase/) for website owners and [benefits for people without disabilities](/WAI/bcase/soc.html#groups).
 
-Note that most accessibility barriers are caused by poor website design and development. However, some accessibility problems might be related to settings in your web browser or assistive technology. For guidance to help you customize your particular web browser and computer setup so it's easier to use websites, see [Better Web Browsing: Tips for Customizing Your Computer](http://www.w3.org/WAI/users/browsing.html).
+Note that most accessibility barriers are caused by poor website design and development. However, some accessibility problems might be related to settings in your web browser or assistive technology. For guidance to help you customize your particular web browser and computer setup so it's easier to use websites, see [Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing.html).
 
 ## Consider Your Approach {#approach}
 
@@ -194,11 +195,11 @@ Even if you don’t know all the details, include what you do know.
 Help the organization understand web accessibility issues. Consider including the following resources:
 
 *   [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})  
-    http://www.w3.org/WAI/intro/accessibility.php
-*   [How People with Disabilities Use the Web]({{ "/people-use-webs/" | relative_url }})  
-    http://www.w3.org/WAI/intro/people-use-web.html
+    https://www.w3.org/WAI/fundamentals/accessibility-intro/
+*   [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url }})  
+    https://www.w3.org/WAI/people-use-web/
 *   [Web Content Accessibility Guidelines (WCAG) Overview]({{ "/standards-guidelines/wcag/" | relative_url }})  
-    http://www.w3.org/WAI/intro/wcag.php
+    https://www.w3.org/WAI/standards-guidelines/wcag/
 
 ## Request Reply {#request}
 
@@ -263,13 +264,13 @@ In the template below, the <span class="hint">[hints]</span> in brackets are sec
 **I had problems on the web page** <span class="hint">[web address (URL), or describe the page where the problem occurs]</span>  
 **I tried to** <span class="hint">[describe what you were trying to do on their site]</span>.  
 **The problem was** <span class="hint">[describe what doesn't work for you or what doesn't work the way you expected]</span>.  
-**This meant I was unable to** <span class="hint">[describe what you had hoped to do on their website]></span>.  
+**This meant I was unable to** <span class="hint">[describe what you had hoped to do on their website]</span>.  
 <span class="hint">[optional: "</span>**I have no trouble on**<span class="hint">" [describe a similar site that works for you]</span>.
 
 **Here is some information to help you diagnose and fix the problem. I use a** <span class="hint">[your computer operating system]</span> **with the** <span class="hint">[name and version of your browser]</span>.  
 **I also use** <span class="hint">[describe any assistive technology you use, or settings you changed - if this is relevant]</span>.
 
-**To learn about web accessibility please see "Introduction to Web Accessibility" at https://www.w3.org/WAI/intro/accessibility** <span class="hint">[optional: include [other references](#pointers)]</span>
+**To learn about web accessibility please see "Introduction to Web Accessibility" at https://www.w3.org/WAI/fundamentals/accessibility-intro/** <span class="hint">[optional: include [other references](#pointers)]</span>
 
 **I look forward to your fixing accessibility barriers on your website. Please contact me** <span class="add">[at the phone number or email address below]</span> **if I can be of further assistance.**
 
@@ -292,7 +293,7 @@ I have encountered some accessibility barriers on your website.
 
 I recently visited your ticket offers page (http://www.cl.example.com/tickets/mank.html) looking for tickets for Thelonius Mank. I couldn't use the page because the gray text on the black background is too hard to read.
 
-You can get information about web accessibility from the web page at https://www.w3.org/WAI/intro/accessibility
+You can get information about web accessibility from the web page at https://www.w3.org/WAI/fundamentals/accessibility-intro/
 
 As I am a CityLights' events fan, I would appreciate your attention to this problem - please let me know when it's fixed. If you would like me to supply any further information, please email me.
 
@@ -319,12 +320,12 @@ Also, your news page doesn't have any headings. Headings are important because I
 
 Please check out this web accessibility information from the W3C:
 
-*   [Introduction to Web Accessibility](http://www.w3.org/WAI/intro/accessibility.php)  
-    http://www.w3.org/WAI/intro/accessibility.php
-*   [How People with Disabilities Use the Web](http://www.w3.org/WAI/intro/people-use-web)  
-    http://www.w3.org/WAI/intro/people-use-web.html
+*   [Introduction to Web Accessibility]({{"/fundamentals/accessibility-intro/" | relative_url }})  
+    https://www.w3.org/WAI/fundamentals/accessibility-intro/
+*   [How People with Disabilities Use the Web]({"/people-use-web/" | relative_url }})  
+    https://www.w3.org/WAI/people-use-web/
 *   [Web Content Accessibility Guidelines (WCAG) Overview]({{ "/standards-guidelines/wcag/" | relative_url }})  
-    http://www.w3.org/WAI/intro/wcag.php
+    https://www.w3.org/WAI/standards-guidelines/wcag/
 
 Please let me know when these problems are addressed.
 
