@@ -322,7 +322,7 @@ Please check out this web accessibility information from the W3C:
 
 *   [Introduction to Web Accessibility]({{"/fundamentals/accessibility-intro/" | relative_url }})  
     https://www.w3.org/WAI/fundamentals/accessibility-intro/
-*   [How People with Disabilities Use the Web]({"/people-use-web/" | relative_url }})  
+*   [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url }})  
     https://www.w3.org/WAI/people-use-web/
 *   [Web Content Accessibility Guidelines (WCAG) Overview]({{ "/standards-guidelines/wcag/" | relative_url }})  
     https://www.w3.org/WAI/standards-guidelines/wcag/
