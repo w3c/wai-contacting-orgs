@@ -350,7 +350,7 @@ In case it helps you diagnose and fix the problem: I have a Win10 laptop and use
 
 To learn more about these and other accessibility issues, check out www.w3.org/WAI/intro/accessibility
 
-By the way, making your site accessible will benefit Citylights too, see Developing a Web Accessibility Business Case for Your Organization (www.w3.org/WAI/bcase/Overview.html).
+By the way, making your site accessible will benefit Citylights too, see Developing a Digital Accessibility Business Case for Your Organization (www.w3.org/WAI/bcase/Overview.html).
 
 Please tell me when you've fixed these problems. Happy to help you further. You can ring me at 12-345-6789.
 
