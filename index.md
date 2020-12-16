@@ -1,15 +1,22 @@
 ---
 title: Contacting Organizations about Inaccessible Websites
-layout: default
+lang: en
 permalink: /teach-advocate/contact-inaccessible-websites/
 github:
+  path: index.md
   repository: w3c/wai-contacting-orgs
+last_updated: 2017-07-27
+
+layout: default
+ref: /teach-advocate/contact-inaccessible-websites/   # translators don't change this
+
 footer: >
-  <p><strong>Date:</strong> Updated  27 July 2017. First published January 2010.</p>
+  <p><strong>Date:</strong> Updated 27 July 2017. First published January 2010.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Andrew/">Andrew Arch</a>, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, Suzette Keith, Jennifer Sutton, <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-memberss">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 inline_css: |
   .hint {opacity: .9;}
+
 ---
 
 {::nomarkdown}
