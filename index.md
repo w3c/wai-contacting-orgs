@@ -23,7 +23,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page describes steps to help you report website accessibility problems:
+This document describes steps to help you report website accessibility problems:
 
 1.  **Identify key contacts**
 2.  **Describe the problem**
@@ -75,11 +75,11 @@ Often it is best when you first contact an organization to assume that they donâ
 
 ### Asking Others to Help {#ask}
 
-Consider asking for help understanding the problem and communicating it. Someone might be able to help you understand the website or assistive technologies. Someone might help you communicate to the website owners. For example, an advocacy group.
+Consider asking friends, family, or colleagues for help understanding the problem you are observing and communicating it to the website owner. For example, the issue may be related to the website or any assistive technologies you are using. You can also ask other to help you communicate with the website owner. For example, an advocacy group.
 
 ### Encouraging Accessible Websites {#encourage}
 
-Acknowledge and encourage organizations that make their websites accessible. Positive feedback can motivate individuals and organizations. It can encourage other organizations to invest in web accessibility. 
+Acknowledge and encourage organizations that make an effort to be accessible. Positive feedback can motivate individuals and organizations. It can encourage other organizations to invest in web accessibility. 
 
 ## Identify Key Contacts {#contact}
 
@@ -104,7 +104,7 @@ If you cannot find contacts on the website, other places to look include:
 Describe the accessibility barrier clearly. This will help the organization find and fix the problem. Include:
 
 *   the page where you found a problem
-*   what the problem is
+*   what the problem is that you observe
 *   what computer and software you use
 *   a screenshot of the web page
 
@@ -230,7 +230,7 @@ You might need records if you later decide to [take further action](#action). In
 
 ### Getting a Response {#response}
 
-You might get a quick response, or it might take longer to hear back. It depends on the organization's culture, policies, and internal systems.
+You might get a quick response, or it might take longer to hear back. It depends on the organization's culture, policies, and internal systems. Government agencies and other organizations providing public services may be required to respond.
 
 You might get an automatic reply that the organization received your feedback. The organization should follow up later with a direct reply to your issue.
 
