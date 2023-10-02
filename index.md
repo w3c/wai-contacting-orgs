@@ -16,7 +16,6 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 inline_css: |
   .hint {opacity: .9;}
-
 ---
 
 {::nomarkdown}
